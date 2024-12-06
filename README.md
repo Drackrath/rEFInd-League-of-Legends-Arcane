@@ -1,9 +1,7 @@
-## Minimalistic rEFInd theme
+## HighRez rEFInd Arcane Theme
 
 [rEFInd](http://www.rodsbooks.com/refind/) is an easy to use boot manager for UEFI
 based systems. This is a clean and minimal theme for it.
-
-![rEFInd Minimalistic](http://i.imgur.com/3bMG6U7.png)
 
 ### Usage
 
@@ -53,14 +51,11 @@ You can of course also choose your own background!
 ### Attribution
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
+The OS icons are modified with a border and upscaled to match highdpi screens.
 
-The background is [Minimalist Wallpaper][wallpaper] by
-[LeonardoAIanB][wallpaper-author]. Thank you to [Padster][padster] for locating
-it!
+The background is Viktor from Arcane theme
 
 [icons]: http://sworiginal.deviantart.com/art/Lightness-for-burg-181461810
 [icon-author]: http://sworiginal.deviantart.com/
 
 [padster]: https://github.com/theRealPadster
-[wallpaper]: http://leonardoalanb.deviantart.com/art/Minimalist-wallpaper-295519786
-[wallpaper-author]: http://leonardoalanb.deviantart.com/
